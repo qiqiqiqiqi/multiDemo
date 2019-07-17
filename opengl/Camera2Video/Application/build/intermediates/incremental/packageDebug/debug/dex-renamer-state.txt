@@ -1,0 +1,4 @@
+#Mon Mar 12 17:34:08 CST 2018
+base.0=D\:\\app\\opengl\\Camera2Video\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
